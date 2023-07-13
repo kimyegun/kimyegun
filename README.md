@@ -34,6 +34,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimyegun)](https://github.com/kimyegun)<br/>
  
   <br/>
+
+  ## Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyegun&layout=compact&theme=gruvbox)
   
 
   

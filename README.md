@@ -30,6 +30,8 @@
 
    <br/>
    <br/>
+
+ ####  :clipboard: Studying
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimyegun)](https://github.com/kimyegun)<br/>
  

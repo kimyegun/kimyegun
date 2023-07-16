@@ -31,11 +31,13 @@
    <br/>
  
   <br/>
+<hr>
 
   ## Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyegun&layout=compact&theme=gruvbox)
-  
+
+  <hr>
 
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimyegun)](https://solved.ac/kimyegun)

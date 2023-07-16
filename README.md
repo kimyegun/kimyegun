@@ -41,6 +41,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimyegun)](https://solved.ac/kimyegun)
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=cold)
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold"/>
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 

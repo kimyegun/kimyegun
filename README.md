@@ -33,8 +33,6 @@
   <br/>
 
 
-  ## Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyegun&layout=compact&theme=gruvbox)
 
   <hr>
@@ -42,8 +40,7 @@
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimyegun)](https://solved.ac/kimyegun)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={kimyegun}&theme=cold)
-<img src="http://mazandi.herokuapp.com/api?handle=kimyegun&theme=cold"/>
+<img src="https://github.com/kimyegun/api?handle=kimyegun&theme=cold"/>
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 

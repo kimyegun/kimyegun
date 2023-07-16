@@ -40,7 +40,7 @@
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimyegun)](https://solved.ac/kimyegun)
 
-  <img src="http://mazandi.herokuapp.com/api?handle={백준닉네임}&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle={KimYeGun}&theme=warm"/>
 
 </div>
 

@@ -7,7 +7,7 @@
   
  <br/>
  <br/>
----
+<hr>
 ####  :clipboard: My Stacks
   
  <br/>

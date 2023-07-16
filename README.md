@@ -29,10 +29,6 @@
 
    <br/>
    <br/>
-
- ####  :clipboard: Studying
- 
-
  
   <br/>
 

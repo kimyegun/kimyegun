@@ -7,8 +7,8 @@
   
  <br/>
  <br/>
-<hr>
-####  :clipboard: My Stacks
+
+## : My Stacks
   
  <br/>
   
@@ -31,7 +31,7 @@
    <br/>
  
   <br/>
-<hr>
+
 
   ## Languages
 

@@ -37,10 +37,6 @@
 
   <hr>
 
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimyegun)](https://solved.ac/kimyegun)
-
-<img src="https://github.com/kimyegun/api?handle=kimyegun&theme=cold"/>
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 

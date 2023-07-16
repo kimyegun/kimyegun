@@ -33,9 +33,7 @@
   <br/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyegun&layout=compact&theme=gruvbox)
-
-  <hr>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyegun&layout=compact&theme=gruvbox)
 
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)

@@ -1,8 +1,10 @@
-<div align="center"> 
+###
+<div align="left">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20My%20GitHub%20&animation=fadeIn&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=KimYeGun&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
-####  :wave: Welcome my github profile !
+
 
   
  <br/>
@@ -36,9 +38,22 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyegun&layout=compact&theme=gruvbox)
 
 
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&animation=twinkling&section=footer)
 
 </div>
+
+
+---
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeongseokim&count_bg=%23B2D5FF&title_bg=%23858486&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://github.com/byeongseokim)
+
+
+
+
+  
+
+
+  
 
 <!--
 **kimyegun/kimyegun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

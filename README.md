@@ -1,15 +1,15 @@
 ###
 <div align="left">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20My%20GitHub%20&animation=fadeIn&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20My%20GitHub%20&animation=fadeIn&fontSize=40&fontAlignY=40&fontAlign=50&height=250&)
+
+
+ <br/>
 
 
 
-
+  <br/>
   
- <br/>
- <br/>
-
 #### :wave: My Stacks
   
  <br/>
@@ -25,6 +25,10 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=white">
+
+   <img align="right" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
+   
+   ---
 
 
 

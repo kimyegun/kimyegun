@@ -38,7 +38,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyegun&layout=compact&theme=gruvbox)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&animation=twinkling&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&animation=fadeIn&section=footer)
 
 </div>
 

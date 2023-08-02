@@ -29,6 +29,8 @@
 
 
    <img align="right" width="30" src="https://user-images.githubusercontent.com/75469131/213887734-1f8f0fb6-4395-4aa6-b828-3b44b96d8f0f.gif" />
+
+
    
    ---
 
@@ -39,10 +41,12 @@
    <br/>
  
   <br/>
+  
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kjaegyu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kjaegyu&layout=compact&theme=buefy&hide_border=true" /></a> 
 
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimyegun&layout=compact&theme=gruvbox)
-
+  <br/>
+  <br/> 
+  <br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&animation=fadeIn&section=footer)
 

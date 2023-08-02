@@ -1,5 +1,5 @@
 ###
-<div align="left">
+<div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20My%20GitHub%20&animation=fadeIn&fontSize=40&fontAlignY=40&fontAlign=50&height=250&)
 

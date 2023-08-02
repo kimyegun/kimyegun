@@ -53,13 +53,13 @@
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B5755&lines=kimyegub's+GitHub&font=Dancing+Script&size=50&center=true&vCenter=true&width=600&height=80)
 
-  </div>
+
   
   <br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&animation=fadeIn&section=footer)
 
-
+  </div>
 
 
 

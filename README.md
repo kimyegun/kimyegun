@@ -70,13 +70,11 @@
 ####  Team-Project
 | Project | Adress |
 |---|---|
- |*HotelLife* &nbsp;| https://github.com/kimyegun/HotelLife                     |
+ |*HotelLife* &nbsp;| https://github.com/kimyegun/HotelLife          |
  |*StudyCafe* &nbsp;| https://github.com/kimyegun/StudtCafe          |
- |*BookMBTI* &nbsp; | https://github.com/kang-gicheon/MBTI_Book     |
+ |*BookMBTI* &nbsp; | https://github.com/kang-gicheon/MBTI_Book      |
 
-
-<br>
-#### Solo-Project
+####  Solo-Project
 
 | Project | Adress |
 |---|---|

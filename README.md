@@ -68,7 +68,6 @@
 **1999.12.13** 생, 현재 경기도 시흥시 거주중, 프론트엔드 개발자 \
 새로운 것에 호기심이 많고 도전을 항상 즐깁니다.
 
-> **portfolio**　[Notion Portfolio](https://yoon0cean.notion.site/Junior-Frontend-Developer-Portfoilo-35564255600a45fc9f3e0207f2dc0ad3) \
 > **email** 　　 kimyegun123@gmail.com 
 
 

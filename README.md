@@ -66,7 +66,8 @@
 
 ---
    
-
+<div>
+  
 ####  Team-Project
 | Project | Adress |
 |---|---|
@@ -80,6 +81,8 @@
 |---|---|
 |*React* &nbsp; | https://github.com/kimyegun/React_Project/|
 |*Node* &nbsp; | https://github.com/kimyegun/SNS_Service/|
+
+</div>
 
 <br>
  

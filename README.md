@@ -74,13 +74,13 @@
 <div align="left">
   
 ####  Project
-| Project | Adress |
-|---|---|
- |*HotelLife* &nbsp;| https://github.com/kimyegun/HotelLife          | 
- |*StudyCafe* &nbsp;| https://github.com/kimyegun/StudtCafe          |
- |*BookMBTI* &nbsp; | https://github.com/kang-gicheon/MBTI_Book      |
- |*React* &nbsp; | https://github.com/kimyegun/React_Project/   |
- |*Node* &nbsp; | https://github.com/kimyegun/SNS_Service/      |
+| Project | Adress | With |
+|:---:|:---:|:---:|
+ |*HotelLife* &nbsp;| https://github.com/kimyegun/HotelLife        |  팀 프로젝트
+ |*StudyCafe* &nbsp;| https://github.com/kimyegun/StudtCafe        |  팀 프로젝트
+ |*BookMBTI* &nbsp; | https://github.com/kang-gicheon/MBTI_Book    |  팀 프로젝트
+ |*React* &nbsp; | https://github.com/kimyegun/React_Project/   |  개인 프로젝트
+ |*Node* &nbsp; | https://github.com/kimyegun/SNS_Service/      | 개인 프로젝트
 
 
 ### More Info 

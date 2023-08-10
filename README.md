@@ -65,15 +65,20 @@
 
 </h4>
 
+</div>
+
 <div>
   
 ---
    
 </div>
 
-<div align="left">
+<h4>
   
-####  Project
+####  📅 Project
+
+<div align="center">
+
 | Project | Adress | With |
 |:---:|:---:|:---:|
  |*HotelLife* &nbsp;| https://github.com/kimyegun/HotelLife        |  팀 프로젝트
@@ -82,6 +87,9 @@
  |*React* &nbsp; | https://github.com/kimyegun/React_Project/   |  개인 프로젝트
  |*Node* &nbsp; | https://github.com/kimyegun/SNS_Service/      | 개인 프로젝트
 
+</h4>
+
+</div>
 
 ### More Info 
 
@@ -90,7 +98,7 @@
 > **email** 　　 kimyegun123@gmail.com 
 
 
-</div>
+
 
 
 <br>

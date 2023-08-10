@@ -108,7 +108,7 @@
 
 
 
-<div align="left">
+<div align="center">
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B5755&lines=kimyegub's+GitHub&font=Dancing+Script&size=50&center=true&vCenter=true&width=600&height=80)
 

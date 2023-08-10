@@ -78,18 +78,21 @@
 ####  📅 Project
 
 <div align="center">
-
-| Date | Project | Adress | With |
+  
+| Date | Project | Contents | With |
 |:---:|:---:|:---:|:---:|
- |*HotelLife* &nbsp;| https://github.com/kimyegun/HotelLife        |  팀 프로젝트
- |*StudyCafe* &nbsp;| https://github.com/kimyegun/StudtCafe        |  팀 프로젝트
- |*BookMBTI* &nbsp; | https://github.com/kang-gicheon/MBTI_Book    |  팀 프로젝트
- |*React* &nbsp; | https://github.com/kimyegun/React_Project/   |  개인 프로젝트
- |*Node* &nbsp; | https://github.com/kimyegun/SNS_Service/      | 개인 프로젝트
+| 23.07.31 ~ 23.08.17 | *BookMBTI* &nbsp; | https://github.com/kang-gicheon/MBTI_Book  | 팀 프로젝트
+| 23.07.10 ~ 23.07.28 | *React* &nbsp; | https://github.com/kimyegun/React_Project/  | 개인 프로젝트
+| 23.07.10 ~ 23.07.28 | *Node* &nbsp; | https://github.com/kimyegun/SNS_Service/     | 개인 프로젝트
+| 23.06.11 ~ 23.06.25 | *StudyCafe* &nbsp;| https://github.com/kimyegun/StudtCafe  | 팀 프로젝트
+| 23.05.22 ~ 23.05.29 | *HotelLife* &nbsp;| https://github.com/kimyegun/HotelLife  | 팀 프로젝트
+
 
 </h4>
 
 </div>
+
+
 
 ### More Info 
 

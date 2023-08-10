@@ -43,10 +43,10 @@
 
 <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=fff"/>
-<img src="https://img.shields.io/badge/recoil-0067A3?style=for-the-badge&logo=recoil&logoColor=fff"/>
+<img src="https://img.shields.io/badge/recoil-0067A3?style=for-the-badge&logo=recoil&logoColor=fff"/><br>
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/typescript-1c7ed6?style=for-the-badge&logo=typescript&logoColor=fff"/>
-<img src="https://img.shields.io/badge/react_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=fff"/>
 
 </h4>
 

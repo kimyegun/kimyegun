@@ -79,8 +79,8 @@
 
 <div align="center">
 
-| Project | Adress | With |
-|:---:|:---:|:---:|
+| Date | Project | Adress | With |
+|:---:|:---:|:---:|:---:|
  |*HotelLife* &nbsp;| https://github.com/kimyegun/HotelLife        |  팀 프로젝트
  |*StudyCafe* &nbsp;| https://github.com/kimyegun/StudtCafe        |  팀 프로젝트
  |*BookMBTI* &nbsp; | https://github.com/kang-gicheon/MBTI_Book    |  팀 프로젝트

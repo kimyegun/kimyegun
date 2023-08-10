@@ -52,7 +52,7 @@
 
 
    ---
-   <br/>
+
 
    ### 🎥 Histories
 <!-- | 23.06 | Dear-My-Univerest | 개인 프로젝트 | -->
@@ -65,12 +65,12 @@
 </div>
 
 ---
-   <br/>
+   
 
 ####  Team-Project
 | Project | Adress |
 |---|---|
- |*HotelLife* &nbsp;| https://github.com/kimyegun/HotelLife          |
+ |*HotelLife* &nbsp;| https://github.com/kimyegun/HotelLife          | 
  |*StudyCafe* &nbsp;| https://github.com/kimyegun/StudtCafe          |
  |*BookMBTI* &nbsp; | https://github.com/kang-gicheon/MBTI_Book      |
 
@@ -80,8 +80,12 @@
 |---|---|
 |*React* &nbsp; | https://github.com/kimyegun/React_Project/|
 |*Node* &nbsp; | https://github.com/kimyegun/SNS_Service/|
+
+<br>
  
 ### More Info 
+
+<br>
 
 > **email** 　　 kimyegun123@gmail.com 
 

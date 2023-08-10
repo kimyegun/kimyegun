@@ -65,23 +65,23 @@
 </div>
 
 ---
+   <br/>
 
-#### 👨‍👩‍👦‍👦 Team
+####  Team-Project
 | Project | Adress |
 |---|---|
- |*JavaBoard* &nbsp;| https://github.com/kimyegun/Java_Team_Project                     |
- |*FestivalReservations* &nbsp;| https://github.com/kimyegun/JSP_Team_Project           |
- |*NEVER WEB community site* &nbsp; |http://3.39.65.94:8080/springproject/main/main.do      |
+ |*HotelLife* &nbsp;| https://github.com/kimyegun/HotelLife                     |
+ |*StudyCafe* &nbsp;| https://github.com/kimyegun/StudtCafe          |
+ |*BookMBTI* &nbsp; | https://github.com/kang-gicheon/MBTI_Book     |
 
 
-
-#### 🙎‍♂️ Solo
+<br>
+#### Solo-Project
 
 | Project | Adress |
 |---|---|
-|*JavaBoard* &nbsp; | https://github.com/kimyegun/JavaSoloProject/|
-|*JSPBoard* &nbsp; | https://github.com/kimyegun/JSP-MVC-model2-Project/|
-|*React+SpringBoot Fullstack* &nbsp; | https://github.com/kimyegun/Springboot-React-Fullstack-Personalproject|
+|*React* &nbsp; | https://github.com/kimyegun/React_Project/|
+|*Node* &nbsp; | https://github.com/kimyegun/SNS_Service/|
  
 ### More Info 
 

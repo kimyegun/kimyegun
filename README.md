@@ -70,6 +70,8 @@
 ---
    
 </div>
+
+<div align="left">
   
 ####  Project
 | Project | Adress |
@@ -81,16 +83,20 @@
  |*Node* &nbsp; | https://github.com/kimyegun/SNS_Service/      |
 
 
-</div>
-
-
-<br>
- 
 ### More Info 
 
 <br>
 
 > **email** 　　 kimyegun123@gmail.com 
+
+
+</div>
+
+
+<br>
+<br>
+ 
+
 
     
  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kimyegun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyegun&layout=compact&theme=buefy&hide_border=true" /></a> 
@@ -102,7 +108,7 @@
 
 
 
-<div align="center">
+<div align="left">
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B5755&lines=kimyegub's+GitHub&font=Dancing+Script&size=50&center=true&vCenter=true&width=600&height=80)
 

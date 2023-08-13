@@ -4,11 +4,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20My%20GitHub%20&animation=fadeIn&fontSize=40&fontAlignY=40&fontAlign=50&height=250&desc=Web%20Front%20End%20Developer&rotate=0)
 
 
-#### 🛸 주 사용 Skill & Stack
+### 🛸 주 사용 Skill & Stack
   
 <h4>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=000"/>
-<img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=000"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=000"/>
 <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styled-components&logoColor=fff"/><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
@@ -22,6 +22,11 @@
   <img src="https://img.shields.io/badge/node.js-74b816?style=flat&logo=node.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat&logo=MariaDB&logoColor=fff"/>
 <img src="https://img.shields.io/badge/GitKraken-79287?style=flat&logo=GitKraken&logoColor=fff"/>
+<br>
+
+<img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white"/> 
+<img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/react_router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
 
 <br>
 
@@ -33,17 +38,17 @@
   
 </h4>
 
-#### 🎲 최근 관심 Skill & Stack
+### 🎲 최근 관심 Skill & Stack
 
 <h4>
 
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=fff"/>
 <img src="https://img.shields.io/badge/recoil-0067A3?style=flat&logo=recoil&logoColor=fff"/><br>
 <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/typescript-1c7ed6?style=flat&logo=typescript&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=Babel&logoColor=fff"/>
-
 
 
 <div>
@@ -56,7 +61,7 @@
 
 <h4>
 
-#### 🎥 Histories
+### 🎥 Histories
 <div align="center">
   
 | Date | Contents | With |
@@ -75,7 +80,7 @@
 
 <h4>
   
-####  📅 Project
+###  📅 Project
 
 <div align="center">
   
@@ -87,27 +92,33 @@
 | 23.06.11 ~ 23.06.25 | *StudyCafe* &nbsp;| https://github.com/kimyegun/StudtCafe  | 팀 프로젝트
 | 23.05.22 ~ 23.05.29 | *HotelLife* &nbsp;| https://github.com/kimyegun/HotelLife  | 팀 프로젝트
 
-
 </h4>
 
 </div>
 
-
-
-### More Info 
-
-<br>
-
-> **email** 　　 kimyegun123@gmail.com 
-
-
-
-
-
 <br>
 <br>
- 
 
+
+<div>
+  
+---
+   
+</div>
+
+<!-- 사용 언어 -->
+### 📈Stats
+
+<div align="center">
+  
+<div align="center" style="display: flex, height:180px">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kimyegun&theme=buefy" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimyegun&theme=buefy" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimyegun&theme=buefy" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimyegun&theme=buefy&utcOffset=8" />
+</div>
+
+ <br>
 
     
  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kimyegun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyegun&layout=compact&theme=buefy&hide_border=true" /></a> 
@@ -115,38 +126,20 @@
   <br/>
   <br/>
   
-  </div>
-
-
-
-<div align="center">
-
+ 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5B5755&lines=kimyegub's+GitHub&font=Dancing+Script&size=50&center=true&vCenter=true&width=600&height=80)
 
-  </div>
+ </div>
 
-  
-  
-  <br/>
+  ### More Info 
 
+<br>
 
+> **email** 　　 kimyegun123@gmail.com
+> 
+</div>
+<br/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-  
 
 <!--
 **kimyegun/kimyegun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

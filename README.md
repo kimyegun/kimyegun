@@ -9,25 +9,31 @@
 <h4>
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=000"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=000"/>
-<img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styled-components&logoColor=fff"/><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=Amazon aws&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat&logo=webpack&logoColor=000"/>
-<br>
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
+</br></br>
+
+<img src="https://img.shields.io/badge/node.js-74b816?style=flat&logo=node.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/node.js-74b816?style=flat&logo=node.js&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=fff"/>
 <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat&logo=MariaDB&logoColor=fff"/>
-<img src="https://img.shields.io/badge/GitKraken-79287?style=flat&logo=GitKraken&logoColor=fff"/>
-<br>
+</br></br>
 
 <img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white"/> 
 <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/react_router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styled-components&logoColor=fff"/>
+</br></br>
+  
+<img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=Amazon aws&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/markdown-000000?style=flat&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">
+<img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat&logo=webpack&logoColor=000"/>
+<img src="https://img.shields.io/badge/GitKraken-79287?style=flat&logo=GitKraken&logoColor=fff"/>
 
+<br>
 <br>
 
 <div>
@@ -35,7 +41,7 @@
 ---
    
 </div>
-  
+
 </h4>
 
 ### 🎲 최근 관심 Skill & Stack
@@ -45,11 +51,14 @@
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=fff"/>
-<img src="https://img.shields.io/badge/recoil-0067A3?style=flat&logo=recoil&logoColor=fff"/><br>
+<img src="https://img.shields.io/badge/recoil-0067A3?style=flat&logo=recoil&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+</br></br>
 <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/typescript-1c7ed6?style=flat&logo=typescript&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=Babel&logoColor=fff"/>
-
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white"/>
+</br>
 
 <div>
   

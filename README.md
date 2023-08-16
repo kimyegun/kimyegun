@@ -10,20 +10,20 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=000"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=000"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/node.js-74b816?style=flat&logo=node.js&logoColor=fff"/>
 </br></br>
 
-<img src="https://img.shields.io/badge/node.js-74b816?style=flat&logo=node.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=fff"/>
 <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat&logo=MariaDB&logoColor=fff"/>
 </br></br>
 
-<img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white"/> 
-<img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/react_router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat&logo=styled-components&logoColor=fff"/>
+<img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white"/> 
+<img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white"/>
 </br></br>
   
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=Amazon aws&logoColor=white">
@@ -32,7 +32,6 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat&logo=webpack&logoColor=000"/>
 <img src="https://img.shields.io/badge/GitKraken-79287?style=flat&logo=GitKraken&logoColor=fff"/>
-
 <br>
 <br>
 

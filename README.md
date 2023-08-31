@@ -144,8 +144,10 @@
 
 <br>
 
-> **email** 　　 kimyegun123@gmail.com
-> 
+> **E-mail** &nbsp;         kimyegun123@gmail.com      <br/>
+> **Blog** &nbsp;&nbsp;&nbsp;&nbsp;    https://blog.naver.com/kgyogngg5
+
+
 </div>
 <br/>
 

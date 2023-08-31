@@ -144,8 +144,9 @@
 
 <br>
 
-> **E-mail** &nbsp;         kimyegun123@gmail.com      <br/>
-> **Blog** &nbsp;&nbsp;&nbsp;&nbsp;    https://blog.naver.com/kgyogngg5
+> **E-mail** &nbsp;         kimyegun123@gmail.com                         <br/>
+> **Blog** &nbsp;&nbsp;&nbsp;&nbsp;    https://blog.naver.com/kgyogngg5   <br/>
+> **Notion** &nbsp;                  https://regal-crystal-25c.notion.site/Notion-4f22b85625cb45f0880d902392260955?pvs=4
 
 
 </div>

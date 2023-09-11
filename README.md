@@ -94,7 +94,7 @@
   
 | Date | Project | Contents | With |
 |:---:|:---:|:---:|:---:|
-| 23.08.30 ~ 현재진행 | *MBTI-World* &nbsp; | https://github.com/kimyegun/MBTI_WORLD  | 개인 프로젝트
+| 23.08.30 ~ 23.09.09 | *MBTI-World* &nbsp; | https://github.com/kimyegun/MBTI_WORLD  | 개인 프로젝트
 | 23.07.31 ~ 23.08.17 | *BookMBTI* &nbsp; | https://github.com/kang-gicheon/MBTI_Book  | 팀 프로젝트
 | 23.07.10 ~ 23.07.28 | *React* &nbsp; | https://github.com/kimyegun/React_Project/  | 개인 프로젝트
 | 23.07.10 ~ 23.07.28 | *Node* &nbsp; | https://github.com/kimyegun/SNS_Service/     | 개인 프로젝트
